@@ -3,11 +3,11 @@
   "author": "yacheng.sz",
   "version": "0.7.0",
   "snapshots": [
-    "//img.alicdn.com/tfs/TB15xZ1QVXXXXcOapXXXXXXXXXX-1242-2013.jpg",
-    "//img.alicdn.com/tfs/TB1pYFCRXXXXXaYXpXXXXXXXXXX-1242-2012.jpg",
-    "//img.alicdn.com/tfs/TB1bxNdRXXXXXc1XVXXXXXXXXXX-1242-2018.jpg"
+    "https://gw.alicdn.com/tfs/TB1B9PPQXXXXXcNXVXXXXXXXXXX-300-200.png",
+    "https://gw.alicdn.com/tfs/TB1IvFAQXXXXXakXXXXXXXXXXXX-377-670.png",
+    "https://gw.alicdn.com/tfs/TB1sjJuQXXXXXc0XXXXXXXXXXXX-377-669.png"
   ],
-  "description": "表单类应用",
+  "description": "问答类应用",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raxjs/template-zhihu.git"
