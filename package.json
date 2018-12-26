@@ -1,5 +1,5 @@
 {
-  "name": "template-buy",
+  "name": "template-zhihu",
   "author": "yacheng.sz",
   "version": "0.7.0",
   "snapshots": [
@@ -10,7 +10,7 @@
   "description": "表单类应用",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raxjs/template-buy.git"
+    "url": "git+https://github.com/raxjs/template-zhihu.git"
   },
   "scripts": {
     "start": "rax-scripts start",
