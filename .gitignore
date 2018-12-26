@@ -1,0 +1,10 @@
+*~
+*.swp
+*.log
+
+.DS_Store
+.idea/
+.lock
+
+node_modules/
+build/
